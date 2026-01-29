@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Modern Vibrant Terminal</title>
-
-<style>
-:root {
-  --bg: #0f172a;
-  --panel: #020617;
-  --text: #e5e7eb;
-  --accent: #38bdf8;
-  --green: #22c55e;
-}
-
-body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: var(--bg);
-  color: var(--text);
-  margin: 0;
-  padding: 40px;
-  line-height: 1.6;
-}
-
-.container {
-  max-width: 1000px;
+;
   margin: auto;
 }
 
@@ -87,8 +62,8 @@ ul li {
 <span class="badge">Modern UI</span>
 
 <p>
-A <strong>modern, vibrant, and clean terminal experience</strong> for Linux.  
-One script transforms your terminal into a colorful, readable, and professional environment  
+A <strong>modern, vibrant, and clean terminal experience</strong> for Linux.<br>
+One script transforms your terminal into a colorful, readable, and professional environment
 with transparent background support and <code>neofetch</code> integration.
 </p>
 
@@ -155,8 +130,9 @@ After installation, close all terminal windows and open a new one.
 <hr>
 
 <h2>🎨 Enable Transparency</h2>
+
 <p>
-Transparency depends on your terminal emulator.  
+Transparency depends on your terminal emulator.<br>
 For <strong>GNOME Terminal / Mint Terminal</strong>:
 </p>
 
@@ -186,9 +162,7 @@ MIT License — free to use, modify, and distribute.
 </p>
 
 <div class="footer">
-<p>
-Made with ❤️ for Linux users who love clean terminals.
-</p>
+  <p>Made with ❤️ for Linux users who love clean terminals.</p>
 </div>
 
 </div>

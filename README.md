@@ -44,18 +44,6 @@ with transparent background support and **neofetch** integration.
 - openSUSE
 
 ---
-
-## 🚀 Installation
-
-Clone the repository and run the installer:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/modern-vibrant-terminal.git
-cd modern-vibrant-terminal
-chmod +x install.sh
-./install.sh
-After installation, close all terminal windows and open a new one.
-
 🎨 Enable Transparency
 
 Transparency depends on your terminal emulator.
@@ -90,3 +78,16 @@ exec bash
 GNU General Public License v3.0
 
 Made with ❤️ for Linux users who love clean, modern terminals.
+
+
+## 🚀 Installation
+
+Clone the repository and run the installer:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/modern-vibrant-terminal.git
+cd modern-vibrant-terminal
+chmod +x install.sh
+./install.sh
+After installation, close all terminal windows and open a new one.
+
